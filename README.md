@@ -55,10 +55,10 @@
 
 | Métrica | Entrenamiento | Prueba |
 |---|---|---|
-| Exactitud | <> | <> |
-| Precisión | <> | <> |
-| Sensibilidad | <> | <> |
-| Especificidad | <> | <> |
+| Exactitud | <78.6 %> | <66.7 %> |
+| Precisión | <75.0 %> | <66.7 %> |
+| Sensibilidad | <60.0 %> | <66.7 %> |
+| Especificidad | <88.9 %> | <66.7 %> |
 
 **Entrenamiento contra prueba.** <¿Hay diferencia? ¿Por qué? ¿Sobreajuste o generalización?>
 
